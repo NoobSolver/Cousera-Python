@@ -38,3 +38,5 @@ N.B. All the codes were tested and passed on coursera. If you find any error or 
   - **Week 6: Final Project**
     - [x] Practice Notebook - Putting It All Together
     - [x] Final Project: WordCloud
+    :smile:
+     
